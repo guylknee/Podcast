@@ -1,4 +1,4 @@
-# MeyerPodcast
+# MeyerPodcast 
 The MeyerPodcast is a podcast player, the user can search for a podcast and play the episodes by streaming or from offline.
 
 ### Prerequisites
